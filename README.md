@@ -1,6 +1,7 @@
 Đồ án Web đặt vé xem phim 
 
 Framework : ASP.NET 
+
 SQL : SQL server
 
 Demo dự án :
